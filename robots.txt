@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://larix.hu/sitemap.xml

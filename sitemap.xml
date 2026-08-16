@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://larix.hu/hu</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/villa-kerekhegy</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/villa-kerekhegy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/villa-kerekhegy" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/cellar-house-etyek</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/cellar-house-etyek" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/cellar-house-etyek" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/black-barn-szentendre</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/black-barn-szentendre" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/black-barn-szentendre" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/courtyard-house-godollo</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/courtyard-house-godollo" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/courtyard-house-godollo" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/roof-loft-buda</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/roof-loft-buda" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/roof-loft-buda" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/hu/projects/atelier-house-zebegeny</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/atelier-house-zebegeny" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/atelier-house-zebegeny" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/villa-kerekhegy</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/villa-kerekhegy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/villa-kerekhegy" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/cellar-house-etyek</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/cellar-house-etyek" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/cellar-house-etyek" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/black-barn-szentendre</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/black-barn-szentendre" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/black-barn-szentendre" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/courtyard-house-godollo</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/courtyard-house-godollo" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/courtyard-house-godollo" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/roof-loft-buda</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/roof-loft-buda" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/roof-loft-buda" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://larix.hu/en/projects/atelier-house-zebegeny</loc>
+<xhtml:link rel="alternate" hreflang="hu" href="https://larix.hu/hu/projects/atelier-house-zebegeny" />
+<xhtml:link rel="alternate" hreflang="en" href="https://larix.hu/en/projects/atelier-house-zebegeny" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
